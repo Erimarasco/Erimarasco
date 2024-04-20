@@ -14,6 +14,7 @@
 
 ##
 ![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=erimarasco&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erimarasco&hide_progress=true)
 
 
 ##
