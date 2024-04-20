@@ -1,14 +1,5 @@
 ## Olá!! Eu sou o Erick Souza 
 
-
-
-
-
-
-
-![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=erimarasco&show_icons=true&theme=radical)
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Eri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Eri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,6 +10,8 @@
 
 
 
+
+
 <div> 
  
   <a href="https://instagram.com/erimarasco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -26,5 +19,8 @@
     <a href = "mailto:erickmarasco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+
+
+![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=erimarasco&show_icons=true&theme=radical)
 
 
