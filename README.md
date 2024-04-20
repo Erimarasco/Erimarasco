@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Erick Souza
+## Olá!! Eu sou o Erick Souza 👨‍💻📊
 
 
 
