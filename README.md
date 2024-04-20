@@ -1,8 +1,16 @@
-## Olá!! Eu sou o Erick Souza 👨‍💻📊
+## Olá!! Eu sou o Erick Souza 
 
 
 
-## Tecnologias que eu uso no meu dia
+
+
+
+
+![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=erimarasco&show_icons=true&theme=radical)
+
+
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Eri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -14,7 +22,7 @@
  
 </div>
 
-## Conecte-se comigo
+
 
 <div> 
  
@@ -24,6 +32,4 @@
   
 </div>
 
-## GitHub Stats
 
-![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=erimarasco&show_icons=true&theme=radical)
